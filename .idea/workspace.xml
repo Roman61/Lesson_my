@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b89920cf-bdd4-4452-9679-b630d5fd7099" name="Changes" comment="Основы асинхронности&#10;Asyncio, async/await&#10;test speed 2">
+      <change afterPath="$PROJECT_DIR$/.idea/Asynchron.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Roman61"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Roman61/Lesson_my_Asynchron.git",
+    "accountId": "e1d4fdcd-6b1a-45d4-a392-e7f8a4cd6768"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2h3ZFs7ajqAsiXUrxWJ4Mvpq8iO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python._Python_1.executor": "Run",
+    "Python._Python_2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b89920cf-bdd4-4452-9679-b630d5fd7099" name="Changes" comment="" />
+      <created>1716824621070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716824621070</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Основы асинхронности&#10;socket while loop mirror">
+      <option name="closed" value="true" />
+      <created>1716824941529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716824941529</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Основы асинхронности&#10;socket while loop mirror&#10;Асинхронность с простыми функциями. Событийный цикл.Асинхронность с простыми функциями. Событийный цикл.">
+      <option name="closed" value="true" />
+      <created>1716825166696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716825166696</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Основы асинхронности&#10;socket while loop mirror&#10;Асинхронность на колбэках">
+      <option name="closed" value="true" />
+      <created>1716825215515</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716825215515</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Основы асинхронности&#10;socket while loop mirror&#10;Генераторы и событийный цикл Round Robin - &quot;Карусель&quot;">
+      <option name="closed" value="true" />
+      <created>1716825323856</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716825323856</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Основы асинхронности&#10;socket mirror&#10;Асинхронность на генераторах">
+      <option name="closed" value="true" />
+      <created>1716825386594</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716825386594</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Основы асинхронности&#10; Корутины и yield from">
+      <option name="closed" value="true" />
+      <created>1716825497174</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716825497174</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Основы асинхронности&#10;Asyncio, async/await">
+      <option name="closed" value="true" />
+      <created>1716825544151</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716825544151</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Основы асинхронности&#10;Asyncio, async/await&#10;test speed">
+      <option name="closed" value="true" />
+      <created>1716825581219</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716825581219</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Основы асинхронности&#10;Asyncio, async/await&#10;test speed 2">
+      <option name="closed" value="true" />
+      <created>1716825640692</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716825640692</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Основы асинхронности&#10;socket while loop mirror" />
+    <MESSAGE value="Основы асинхронности&#10;socket while loop mirror&#10;Асинхронность с простыми функциями. Событийный цикл.Асинхронность с простыми функциями. Событийный цикл." />
+    <MESSAGE value="Основы асинхронности&#10;socket while loop mirror&#10;Асинхронность на колбэках" />
+    <MESSAGE value="Основы асинхронности&#10;socket while loop mirror&#10;Генераторы и событийный цикл Round Robin - &quot;Карусель&quot;" />
+    <MESSAGE value="Основы асинхронности&#10;socket mirror&#10;Асинхронность на генераторах" />
+    <MESSAGE value="Основы асинхронности&#10; Корутины и yield from" />
+    <MESSAGE value="Основы асинхронности&#10;Asyncio, async/await" />
+    <MESSAGE value="Основы асинхронности&#10;Asyncio, async/await&#10;test speed" />
+    <MESSAGE value="Основы асинхронности&#10;Asyncio, async/await&#10;test speed 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Основы асинхронности&#10;Asyncio, async/await&#10;test speed 2" />
+  </component>
+</project>
