@@ -3,6 +3,7 @@ from Singleton import singleton
 
 @singleton
 class Hendlers:
+
     def __init__(self):
         self.events_hendlers = {}
         self.function = []

@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b89920cf-bdd4-4452-9679-b630d5fd7099" name="Changes" comment="Основы асинхронности&#10;Asyncio, async/await&#10;test speed 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event_system/Singleton.py" beforeDir="false" afterPath="$PROJECT_DIR$/event_system/Singleton.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event_system/events.py" beforeDir="false" afterPath="$PROJECT_DIR$/event_system/events.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,9 +51,15 @@
     "Python._Python_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "G:/lesson/Lesson_my"
+    "last_opened_file_path": "G:/lesson/Lesson_my/event_system",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\lesson\Lesson_my\event_system" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -150,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719856985968</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Основы асинхронности&#10;Asyncio, async/await&#10;test speed 2">
+      <option name="closed" value="true" />
+      <created>1726913056778</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726913056778</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
